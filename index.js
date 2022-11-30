@@ -1,1 +1,0 @@
-document.getElementById("bi").removeAttribute("src");
